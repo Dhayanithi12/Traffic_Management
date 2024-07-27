@@ -16,7 +16,7 @@ This project is a traffic management system that uses optimization algorithms to
 
 2. Navigate to the Project Directory:
 
-cd traffic_management_system
+```cd traffic_management_system
 Install Required Libraries:
 
 3. Make sure you have numpy, pandas, and scipy installed. You can install them using pip:
